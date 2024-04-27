@@ -1,20 +1,10 @@
 # Forex Trading Backend
 
-## Demo
-
-Server hosted on Vercel: [https://forex-trading-backend.vercel.app/](https://forex-trading-backend.vercel.app/)
-
 ## Technologies used
 
 NestJS, MongoDB
 
-## Run Locally
 
-Clone the project
-
-```bash
-git clone https://github.com/SrirajBehera/Forex-Trading-Backend.git
-```
 
 Install dependencies
 
