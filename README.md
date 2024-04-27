@@ -1,4 +1,4 @@
-# Forex Trading Backend
+# Forex Trading System
 
 ## Technologies used
 
