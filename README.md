@@ -106,6 +106,4 @@ To run this project, you will need to add the following environment variables to
 ```
 
 
-## API Reference
 
-API reference can be found in the Swagger documentation: [https://forex-trading-backend.vercel.app/api](https://forex-trading-backend.vercel.app/api)
